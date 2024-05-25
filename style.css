@@ -36,7 +36,7 @@ p {
 .flx-one {
     width: 40%;
     overflow: hidden;
-    height: 100vh;
+    height: 100Vh;
 }
 
 .left-panel {
@@ -189,8 +189,6 @@ p {
     height: 100%;
 }
 
-
-
 .text {
     position: absolute;
     bottom: 80px;
@@ -221,13 +219,11 @@ p {
     font-size: 14px;
 }
 
-
 .text-four img,
 .text-seven img {
     max-width: 240px;
     margin-bottom: 10px;
 }
-
 
 .flx-two {
     width: 60%;
@@ -265,7 +261,6 @@ p {
     background-color: #10cf6a;
     height: 102vh;
 }
-
 
 .page {
     height: 100vh;
@@ -400,13 +395,6 @@ p {
     max-width: 200px;
 }
 
-
-
-
-
-
-
-
 .icon-holder {
     width: 50px;
     height: 50px;
@@ -421,8 +409,6 @@ p {
 .icon-holder i {
     line-height: 50px;
 }
-
-
 
 @media only screen and (max-width: 991px) {
     p {
@@ -499,9 +485,6 @@ p {
         right: -98px;
     }
 }
-
-
-
 
 @media only screen and (max-width: 767px) {
     .d-flx {

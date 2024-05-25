@@ -1,5 +1,4 @@
 
-
 document.addEventListener("DOMContentLoaded", function () {
     const textElements = document.querySelectorAll('.text > div');
     const headingElements = document.querySelectorAll('.text-inside-img > div');
